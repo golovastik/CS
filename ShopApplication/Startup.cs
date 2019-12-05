@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using ShopApplication.Data.interfaces;
+using ShopApplication.Data.mocks;
 
 namespace ShopApplication
 {
@@ -15,6 +17,8 @@ namespace ShopApplication
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IAllBooks, MockBook>();   //иноерефейс реализуется в MockBook
+            services.AddTransient<IBooksCategory, MockCategory>();
             services.AddMvc();
         }
 

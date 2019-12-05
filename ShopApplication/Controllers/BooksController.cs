@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ShopApplication.Data.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,15 @@ namespace ShopApplication.Controllers
 {
     public class BooksController : Controller
     {
+        // класс показывает чтото вроде HTML страницы 
+        private readonly IAllBooks _allBooks;
+        private readonly IBooksCategory _allCategories;
+
+        public BooksController(IAllBooks iAllBooks, IBooksCategory iBooksCat)
+        {
+            _allBooks = iAllBooks;
+            _allCategories = iBooksCat;
+        }
 
     }
 }
