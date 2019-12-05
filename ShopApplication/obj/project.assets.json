@@ -12275,11 +12275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C#\\Core\\ShopApplication\\ShopApplication.csproj",
+      "projectUniqueName": "D:\\projects\\Git\\CS\\ShopApplication\\ShopApplication.csproj",
       "projectName": "ShopApplication",
-      "projectPath": "D:\\projects\\C#\\Core\\ShopApplication\\ShopApplication.csproj",
+      "projectPath": "D:\\projects\\Git\\CS\\ShopApplication\\ShopApplication.csproj",
       "packagesPath": "C:\\Users\\shark\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C#\\Core\\ShopApplication\\obj\\",
+      "outputPath": "D:\\projects\\Git\\CS\\ShopApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shark\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,7 +18,7 @@ namespace ShopApplication.Data.mocks
                 {
                     new Category{ categoryName = "Научная литература", desc = "программирование, интернет"},
                     new Category{ categoryName = "Фантастика", desc = "комиксы, манга"}
-                }
+                };
             }
         }
     }

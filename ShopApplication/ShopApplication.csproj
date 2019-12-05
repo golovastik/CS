@@ -16,4 +16,10 @@
     <Folder Include="Data\Views\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Data\mocks\MockBook.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
 </Project>
