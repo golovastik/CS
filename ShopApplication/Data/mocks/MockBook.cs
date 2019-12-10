@@ -24,6 +24,31 @@ namespace ShopApplication.Data.mocks
                 };
             }
         }
+        ////////////////////////////////////////////////////////
+        public string(string first, int key){
+            string[] array_letter = {A, B, C, D, F, G, H};
+            string change_string;
+            for(int i = 0, i < first.Length(), i++){
+                for(int k = 0, k < array_letter.Length(), k++){
+                    if(first[i] == " "){
+                        chahge_string.Add(" ");
+                        break;
+                    }
+                    if(first[i] == "," || first[i] == "." || first[i] == "!"){
+                        chahge_string.Add(first[i]);
+                        break;
+                    }
+                    if(array_letter[k] == first[i]){
+                        string letter_change = array_letter[k + key]
+                        chahge_string.Add(letter_change);
+                        break;
+                    }
+                }
+                
+            }
+            retuent change_string;
+        }
+        //////////////////////////////////////////////////////////
 
         public Book getObjectBook(int bookId)
         {
