@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShopApplication.Data.interfaces
 {
-    interface IAllBooks
+    public interface IAllBooks
     {
         IEnumerable<Book> Books { get;}
         Book getObjectBook(int bookId);

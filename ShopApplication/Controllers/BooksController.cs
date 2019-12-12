@@ -19,5 +19,12 @@ namespace ShopApplication.Controllers
             _allCategories = iBooksCat;
         }
 
+        //пепредача в HTML страницу
+        public ViewResult List()
+        {
+            var buks = _allBooks.Books;
+            return View();
+        }
+
     }
 }

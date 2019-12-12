@@ -6,7 +6,7 @@ using ShopApplication.Data.Models;
 
 namespace ShopApplication.Data.interfaces
 {
-    interface IBooksCategory
+    public interface IBooksCategory
     {
         IEnumerable<Category> AllCategories { get; }
     }
