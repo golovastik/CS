@@ -16,7 +16,10 @@
     <h2>Все книги</h2>
     @{
         foreach(var book in Model){
-            
+            <div>
+                <h2>Название: @book.name</h2>
+                <p>Цена: @book.price.ToString("c")</p>
+            </div>
         }
     }
 </body>

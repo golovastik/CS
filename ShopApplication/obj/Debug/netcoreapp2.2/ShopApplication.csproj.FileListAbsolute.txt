@@ -30,3 +30,12 @@ D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\ShopApplication.runti
 D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\ShopApplication.dll
 D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\ShopApplication.pdb
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.RazorTargetAssemblyInfo.cache
+D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\ShopApplication.Views.dll
+D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\ShopApplication.Views.pdb
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.TagHelpers.input.cache
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.TagHelpers.output.cache
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.RazorCoreGenerate.cache
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\List.cshtml.g.cs
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.RazorTargetAssemblyInfo.cs
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.Views.pdb
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.csproj.CopyComplete

@@ -22,7 +22,7 @@ namespace ShopApplication.Controllers
         //пепредача в HTML страницу
         public ViewResult List()
         {
-            var buks = _allBooks.Books;
+            var books = _allBooks.Books;
             return View();
         }
 
