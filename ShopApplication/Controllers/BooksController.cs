@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopApplication.Data.interfaces;
+using ShopApplication.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +23,11 @@ namespace ShopApplication.Controllers
         //пепредача в HTML страницу
         public ViewResult List()
         {
-            var books = _allBooks.Books;
-            return View();
+            ViewBag.Title = "Страница с книгами";
+            BooksListViewModel obj = new BooksListViewModel();
+            obj.allBooks = _allBooks.Books;
+            obj.currCategory = "Книги";
+            return View(obj);
         }
 
     }

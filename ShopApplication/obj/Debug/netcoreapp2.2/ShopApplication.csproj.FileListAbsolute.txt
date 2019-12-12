@@ -39,3 +39,6 @@ D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\Books\Lis
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.RazorTargetAssemblyInfo.cs
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.Views.pdb
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.csproj.CopyComplete
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
