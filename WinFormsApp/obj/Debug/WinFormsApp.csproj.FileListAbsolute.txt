@@ -1,0 +1,17 @@
+D:\projects\C#\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+D:\projects\C#\WinFormsApp\bin\Debug\WinFormsApp.exe
+D:\projects\C#\WinFormsApp\bin\Debug\WinFormsApp.pdb
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.exe
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.pdb
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.LoginForm.resources
+D:\projects\C#\WinFormsApp\bin\Debug\MySql.Data.dll
+D:\projects\C#\WinFormsApp\bin\Debug\Google.Protobuf.dll
+D:\projects\C#\WinFormsApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\projects\C#\WinFormsApp\bin\Debug\Renci.SshNet.dll
+D:\projects\C#\WinFormsApp\bin\Debug\MySql.Data.xml
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.RegisterForm.resources
+D:\projects\C#\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
