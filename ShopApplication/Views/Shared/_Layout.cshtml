@@ -4,8 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
-    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css"/>
-    <link href="~/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <header>
@@ -33,13 +32,13 @@
             </div>
         </nav>
     </header>
-    <div>
+    <div class="container mt-5">
         @RenderBody()
     </div>
-    <footer class="container">
-        <p class="float-right"><a href="#">Back to top</a></p>
-        <p>© 2017-2019 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
-    </footer>
-    <script src="~/js/bootstrap.min.js"></script>
+   <footer class="container">
+    <p class="float-right"><a href="#">Back to top</a></p>
+    <p>© 2017-2019 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+  </footer>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </body>
 </html>
