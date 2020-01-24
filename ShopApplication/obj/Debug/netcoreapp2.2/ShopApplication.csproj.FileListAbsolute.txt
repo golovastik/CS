@@ -42,3 +42,4 @@ D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\ShopApplication.cspro
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 D:\projects\Git\CS\ShopApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\projects\Git\CS\ShopApplication\bin\Debug\netcoreapp2.2\dbsettings.json
